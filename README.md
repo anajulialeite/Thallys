@@ -1,2 +1,2 @@
 # Thallys
-Atividades feitas em sala de aula da matéria JavaScript
+Atividades feitas em sala de aula da matéria Java
