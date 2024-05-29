@@ -1,4 +1,4 @@
-# Thallys - Java
+# ThallysBraz - Java
 Atividades feitas em sala de aula da matéria: Programação Orientada a Objetos II, em Java com o Professor Thallys Braz
 
 Todas as atividades valendos os 5 pontos extras na matéria, estão em arquivo DOCX!
