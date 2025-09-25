@@ -8,7 +8,7 @@ Este repositório contém tanto atividades de prática de programação quanto a
 
 ## Link Útil
 
-Link de como baixar o IntelliJ Idea: https://www.youtube.com/watch?v=xRBd2l580Ac&t=807s
+Link de como baixar o: <a href= "https://www.youtube.com/watch?v=xRBd2l580Ac&t=807s">IntelliJ Idea</a>
 
 ## License
 
