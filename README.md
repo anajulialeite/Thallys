@@ -8,8 +8,8 @@ Este repositório contém tanto atividades de prática de programação quanto a
 
 ## Link Útil
 
-Link de como baixar o: <a href= "https://www.youtube.com/watch?v=xRBd2l580Ac&t=807s">IntelliJ Idea</a>
+Link de como baixar o <a href= "https://www.youtube.com/watch?v=xRBd2l580Ac&t=807s">IntelliJ Idea</a>
 
 ## License
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
+[![MIT License](https://img.shields.io/badge/License-MIT-%231C003F.svg)](./LICENSE)
