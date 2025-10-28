@@ -6,7 +6,7 @@ Atividades feitas em sala de aula da matéria Programação Orientada a Objetos 
 
 Este repositório contém tanto atividades de prática de programação quanto atividades em teoria para testar nossos conhecimentos baseado no que foi ministrado em sala de aula!
 
-## Link Útil
+## Link útil
 
 Link de como baixar o <a href= "https://www.youtube.com/watch?v=xRBd2l580Ac&t=807s">IntelliJ Idea</a>
 
